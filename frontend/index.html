@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nguyễn Hồng Phong - AI Assistant</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="app-container">
+        <aside class="sidebar">
+            <div class="brand">
+                <i class="fas fa-robot"></i> AI Assistant
+            </div>
+            
+            <div class="profile-card">
+                <div class="profile-image">
+                    <img src="https://ui-avatars.com/api/?name=Nguyễn+Hồng+Phong&background=random&size=128" alt="Nguyễn Hồng Phong">
+                    <span class="status-dot"></span>
+                </div>
+                <h2 class="profile-name">Nguyễn Hồng Phong</h2>
+                <p class="profile-handle">@Apctxyz112</p>
+                <div class="profile-badge">
+                    <i class="fas fa-database"></i> Data Engineer
+                </div>
+            </div>
+
+            <div class="info-section">
+                <h3><i class="fas fa-briefcase"></i> Expertise</h3>
+                <ul class="expertise-list">
+                    <li><i class="fas fa-server"></i> Backend Developer</li>
+                    <li><i class="fas fa-mobile-alt"></i> Mobile Developer</li>
+                    <li><i class="fas fa-ad"></i> Ads Optimization</li>
+                </ul>
+            </div>
+
+            <div class="info-section">
+                <h3><i class="fas fa-link"></i> Connect with me</h3>
+                <div class="social-links">
+                    <a href="https://www.facebook.com/apctxyz112/" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://github.com/F1792005?tab=repositories" target="_blank"><i class="fab fa-github"></i></a>
+                    <a href="#" target="_blank"><i class="fab fa-telegram-plane"></i></a>
+                    <a href="#" target="_blank"><i class="fas fa-globe"></i></a>
+                </div>
+            </div>
+        </aside>
+
+        <main class="chat-interface">
+            <header class="chat-header">
+                <div class="bot-info">
+                    <div class="bot-avatar">
+                        <i class="fas fa-robot"></i>
+                    </div>
+                    <div class="bot-details">
+                        <h3>Nam Phúc</h3>
+                        <span class="status"><span class="dot"></span> Online - Ready to help</span>
+                    </div>
+                </div>
+                <button class="settings-btn"><i class="fas fa-cog"></i></button>
+            </header>
+
+            <div class="chat-messages" id="chatMessages">
+                <div class="welcome-screen" id="welcomeScreen">
+                    <div class="welcome-icon">
+                        <i class="fas fa-robot"></i>
+                    </div>
+                    <h1>Welcome to Nam Phúc AI Assistant</h1>
+                    <p>Powered by DeepSeek R1 & Azure OpenAI</p>
+                    <div class="tags">
+                        <span>AI</span>
+                        <span>Fast Response</span>
+                        <span>Multilingual</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="chat-input-area">
+                <div class="suggestions-container" id="suggestionsContainer">
+                    </div>
+                <div class="input-wrapper">
+                    <button class="emoji-btn"><i class="far fa-smile"></i></button>
+                    <input type="text" id="userInput" placeholder="Type your message here..." autocomplete="off">
+                    <button id="sendBtn" class="send-btn"><i class="fas fa-paper-plane"></i></button>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="chat.js"></script>
+</body>
+</html>

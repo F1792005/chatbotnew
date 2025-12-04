@@ -1,0 +1,63 @@
+Nguyễn Hồng Phong
+Vị trí: Data Engineer
+Địa chỉ: Hà Đông, Hà Nội
+Email: [fong1792005@gmail.com](mailto:fong1792005@gmail.com)
+Website:
+
+---
+
+Giới thiệu
+
+Tôi là Nguyễn Hồng Phong, một sinh viên học Kỹ Thuật Dữ Liệu đang trên hành trình khám phá và chinh phục thế giới AI.
+Tôi bắt đầu hành trình của mình từ niềm đam mê với trí tuệ nhân tạo sau khi chứng kiến J.A.R.V.I.S trong Iron Man.
+Tôi quyết định bắt đầu học AI và machine learning, dùng kiến thức để tạo ra những sản phẩm giúp ích cho cộng đồng.
+
+Trên hành trình đó, tôi đã trải qua nhiều dự án thú vị từ những ngày đầu tiên với Python, những đêm trắng với TensorFlow và PyTorch, cho đến khi tự tay xây dựng các mô hình AI hoạt động thực tế.
+Hiện tại, tôi đang phát triển một chatbot dạng RAG pipeline, hoạt động trên trang web bằng FastAPI.
+
+Ngoài AI, tôi còn quan tâm đến machine learning, deep learning, blockchain security, và phát triển giao diện web.
+
+Tôi đang xây dựng kênh YouTube để chia sẻ kiến thức AI và tài liệu học tập của mình cho cộng đồng.
+
+---
+
+Kỹ năng
+
+* Ngôn ngữ lập trình: Python, JavaScript, C, PHP/Laravel
+* AI & Machine Learning: CNN, LSTM, YOLO, Transfer Learning
+* Web Development: HTML, CSS, JavaScript, ReactJS, FastAPI
+* Bảo mật: Blockchain Security, SQL Injection Prevention
+* Ngôn ngữ: Tiếng Anh (B1-B2)
+
+---
+
+Dự án tiêu biểu
+
+1. Chống bạo lực gia đình
+
+* Phát hiện bạo lực gia đình qua âm thanh, tích hợp chế độ SOS khi cần thiết.
+
+2. Virtual Painting
+
+* Ứng dụng vẽ tranh trong không gian bằng cử chỉ tay, nhận diện và theo dõi bàn tay.
+
+3. Chatbot RAG Pipeline
+
+* Chatbot AI phân tích câu hỏi và trả lời dựa trên câu hỏi cùng ID CV.
+
+---
+
+Quá trình học tập
+
+* 2020-2023: THPT Mai Anh Tuấn
+* Hiện tại: Học viện Công nghệ Bưu chính Viễn thông
+
+---
+
+Liên hệ
+
+* Email: [fong1792005@gmail.com](mailto:fong1792005@gmail.com)
+* Facebook: [https://www.facebook.com/apctxyz112/](https://www.facebook.com/apctxyz112/)
+* GitHub: [https://github.com/F1792005?tab=repositories](https://github.com/F1792005?tab=repositories)
+* Telegram:
+* Website:
